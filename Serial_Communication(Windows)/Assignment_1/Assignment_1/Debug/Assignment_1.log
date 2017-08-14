@@ -1,0 +1,5 @@
+﻿  Physical.cpp
+c:\users\megap\desktop\bcit\3_term\3980\assignment_1\assignment_1\assignment_1\physical.cpp(42): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\megap\desktop\bcit\3_term\3980\assignment_1\assignment_1\assignment_1\physical.cpp(9): warning C4101: 'dwRes': unreferenced local variable
+  Assignment_1.vcxproj -> C:\Users\megap\Desktop\BCIT\3_Term\3980\Assignment_1\Assignment_1\Debug\Assignment_1.exe
+  Assignment_1.vcxproj -> C:\Users\megap\Desktop\BCIT\3_Term\3980\Assignment_1\Assignment_1\Debug\Assignment_1.pdb (Partial PDB)

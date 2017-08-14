@@ -1,0 +1,2 @@
+A simple program that transfers characters in both directions via
+a serial cable using overlapped IO for concurrency.

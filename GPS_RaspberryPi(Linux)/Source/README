@@ -1,0 +1,33 @@
+/*------------------------------------------------------------------------------------------------------------------
+-- SOURCE FILE: 
+--	dcgps.h
+--	ggps.h
+--	gps-utils.h
+--	rapidjson/*.h
+--	dcgps.cpp
+--	g_gps.cpp
+--  g_gpsprint.cpp
+--  gps-utils.cpp
+--  gpsprint.cpp
+--  makefile
+--  
+-- PROGRAM: GPS receiver (dcgps)
+--
+-- DATE: October 19, 2016
+--
+-- DESIGNER: Terry Kang, Tim Makimov 
+--
+-- PROGRAMMER: Terry Kang, Tim Makimov 
+--
+-- NOTES:
+-- This program is a  GPS applications on Embedded platforms Raspberry Pi
+--
+-- The program will retrieve data from GPS and displays the data on console mode.
+-- There are 2 different version that can be switched using command argument '-c' or '-h'
+-- '-c' mode will print only basic data with plain console UI.
+-- '-h' mode will print more data with graphical console UI using ncurses.
+--
+-- this program requires GPS dongle to be connected to the device.
+-- Since this program connect the GPS dongle via gps daemon(gpsd), gpsd must be installed and running.
+--
+----------------------------------------------------------------------------------------------------------------------*/

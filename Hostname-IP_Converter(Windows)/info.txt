@@ -1,0 +1,2 @@
+This Windows program converst IP address into hostname, and
+vice versa.

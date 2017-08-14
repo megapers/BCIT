@@ -1,0 +1,4 @@
+This is a simple GPS reader program designed and implemented for
+Linux environment. A Raspberry Pi unit has been used a server host and 
+a USB GPS dongle was used as a data receiver. Ncurses is used for
+command line GUI.
